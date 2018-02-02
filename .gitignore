@@ -5,4 +5,4 @@ bin
 obj
 packages
 
-.config
+AirCaddy/AirCaddy.Web/Web.config
